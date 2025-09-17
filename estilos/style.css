@@ -1,9 +1,5 @@
-/* 
-  Variáveis para cores:
-  --fundo-principal
-  --texto
-  --texto-inverso
-  --destaque
-  --destaque-inverso
-  --fundo-card
-*/
+
+body {
+  background-color: blueviolet;
+  color: black;
+}
