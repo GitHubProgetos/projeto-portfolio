@@ -4,8 +4,9 @@
 <style>
 path {
     fill: black;
-    stroke: white;
-    stroke-widht: 1px;
+    stroke: red;
+    stroke-width: 0.9px;
+    font-size: 32;
 }
 </style>
 
